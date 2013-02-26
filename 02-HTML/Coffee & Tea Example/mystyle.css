@@ -1,0 +1,43 @@
+p {
+	color:white;
+	padding: 50px 50px 50px 50px;
+}
+
+nav {
+	color:red;
+	float:right;
+}
+
+footer {
+	color: orange;
+}
+
+body {
+	background:lightslategray;
+}
+
+a {
+	color: orange;
+}
+
+img {
+	padding: 30px 30px 30px 50px;
+}
+
+footer {
+	padding: 50px 50px 50px 50px;
+}
+
+.blackText {
+	color: black;
+}
+
+.right {
+	float: right;
+	height: 300px;
+}
+
+.left {
+	float: left;
+	height: 300px;
+}
